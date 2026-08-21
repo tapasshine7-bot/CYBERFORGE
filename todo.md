@@ -13,3 +13,12 @@
 - [x] Produce a clean production build for the CYBERFORGE Pages deployment.
 - [x] Create a new standalone Cloudflare Pages project and deploy CYBERFORGE without changing existing projects or DNS.
 - [x] Verify the new pages.dev site and record its public deployment address.
+
+## Professional Kali and Termux Learning Lab Upgrade
+
+- [x] Expand the safe terminal command set with Linux, shell, Termux-oriented, and defensive analysis exercises.
+- [x] Add a professional command-reference workspace with explanations and practical safe examples.
+- [x] Add guided interactive missions, command history, and mobile-friendly terminal shortcuts.
+- [x] Add a realistic Termux-style prompt, home paths, package-management simulation, storage-setup guidance, and touch-friendly keyboard controls without device-shell execution.
+- [ ] Verify the upgraded dashboard and deploy it to the independent CYBERFORGE Pages project.
+- [ ] Push the upgrade and record the terminal boundary for future isolated real-lab infrastructure.

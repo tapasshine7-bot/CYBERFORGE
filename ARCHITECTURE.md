@@ -16,8 +16,13 @@ The practice interface uses the design approach of a browser terminal front end.
 
 Kali Linux is positioned as a security-professional distribution with options such as virtual machines and containers. CYBERFORGE will teach safe usage concepts and practice commands in a sandbox; it will not host an unrestricted Kali instance in the public frontend.[3]
 
+Ubuntu’s command-line learning guidance demonstrates the value of working inside a dedicated practice directory before using commands such as `pwd`, `mkdir`, `ls`, `cat`, and `grep`. CYBERFORGE will apply that same principle: command exercises act only on a virtual `/home/forge/authorized-lab` filesystem and cannot touch a visitor’s device or any network target.[4]
+
+The Kali and Termux-oriented material will focus on environment setup concepts, package-awareness, Bash navigation, local file inspection, evidence triage, hash verification, and defensive configuration. The public terminal will reject reconnaissance, exploitation, credential, wireless, remote-access, malware, and arbitrary external-execution commands.
+
 ## References
 
 [1]: https://owasp.org/www-project-web-security-testing-guide/ "OWASP Web Security Testing Guide"
 [2]: https://xtermjs.org/docs/ "Xterm.js Documentation"
 [3]: https://www.kali.org/ "Kali Linux"
+[4]: https://ubuntu.com/tutorials/command-line-for-beginners "Ubuntu command line for beginners"
