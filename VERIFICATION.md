@@ -18,6 +18,8 @@ The new **Study Library** workspace rendered in the local browser preview with a
 
 The Termux Mobile Notes volume opened at page 061 and correctly exposed its own 20-note sequence through page 080. An archive-wide search for `rate limit` returned five matching entries from multiple volumes, confirming that learners can discover related content across the complete book rather than only inside the currently selected volume.
 
+The new Cloudflare deployment at `https://c750edee.cyberforge-668.pages.dev/` rendered CYBERFORGE v2.1.0 with the Study Library navigation entry and the complete 200-note archive. Cloudflare deployment metadata confirmed this as the production deployment for branch `main`, source commit `2c6c845`. After normal propagation, the stable project address also rendered v2.1.0 and opened the deployed Study Library with all ten volumes and page 001 of 200.
+
 ## Remaining Checks
 
 - [x] Verify an authorized virtual-lab tool observation and a Termux package-management response.
@@ -25,4 +27,4 @@ The Termux Mobile Notes volume opened at page 061 and correctly exposed its own 
 - [x] Verify the deployed production terminal at the CYBERFORGE Pages address.
 - [x] Verify the Study Library index, 200-note reader, and notebook-page structure in the browser.
 - [ ] Verify small-screen rendering and keyboard history/completion behavior.
-- [ ] Build production files and inspect the deployed CYBERFORGE site.
+- [x] Build production files and inspect the deployed CYBERFORGE site.

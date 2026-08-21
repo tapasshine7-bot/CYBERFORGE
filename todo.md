@@ -28,4 +28,4 @@
 - [x] Define a 200-page-equivalent legal cybersecurity curriculum spanning foundations, Termux, Linux, defensive methodology, and professional reporting.
 - [x] Build a separate Study Library workspace with a chapter navigator, searchable index, page progression, and mobile reading controls.
 - [x] Create detailed handwritten-notes-style chapters covering descriptions, lawful uses, terminology, command concepts, safe examples, and practice reflections.
-- [ ] Verify the Study Library dashboard, deploy it to the independent CYBERFORGE Pages project, and refresh the recovery archive.
+- [x] Verify the Study Library dashboard, deploy it to the independent CYBERFORGE Pages project, and refresh the recovery archive.
