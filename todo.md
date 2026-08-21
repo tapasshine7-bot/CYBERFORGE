@@ -22,3 +22,10 @@
 - [x] Add a realistic Termux-style prompt, home paths, package-management simulation, storage-setup guidance, and touch-friendly keyboard controls without device-shell execution.
 - [x] Verify the upgraded dashboard and deploy it to the independent CYBERFORGE Pages project.
 - [x] Push the upgrade and record the terminal boundary for future isolated real-lab infrastructure.
+
+## Study Library Dashboard and Handwritten Notes Book
+
+- [x] Define a 200-page-equivalent legal cybersecurity curriculum spanning foundations, Termux, Linux, defensive methodology, and professional reporting.
+- [x] Build a separate Study Library workspace with a chapter navigator, searchable index, page progression, and mobile reading controls.
+- [x] Create detailed handwritten-notes-style chapters covering descriptions, lawful uses, terminology, command concepts, safe examples, and practice reflections.
+- [ ] Verify the Study Library dashboard, deploy it to the independent CYBERFORGE Pages project, and refresh the recovery archive.

@@ -12,10 +12,17 @@ The Learning Paths workspace displays six structured tracks: Termux Mobile Found
 
 The final production build completed successfully. CYBERFORGE was deployed to the existing independent Cloudflare Pages project, and the production address `https://cyberforge-668.pages.dev/` rendered the v2 overview and Practice Terminal with the Termux/Kali selector, controlled command input, shortcut chips, and browser-local safety boundary.
 
+## Study Library Verification
+
+The new **Study Library** workspace rendered in the local browser preview with a dedicated navigation item, ten visible curriculum volumes, and exactly 200 indexed safe field notes. The reader opened at page 001 and showed a responsive handwritten-notebook page with a title, core note, lawful-use guidance, a safe practice prompt, and a clear boundary reminder. The index exposed all 20 notes in the selected volume, the volume selector exposed all ten volumes, and the reader included previous/next controls plus a search field for the full note archive.
+
+The Termux Mobile Notes volume opened at page 061 and correctly exposed its own 20-note sequence through page 080. An archive-wide search for `rate limit` returned five matching entries from multiple volumes, confirming that learners can discover related content across the complete book rather than only inside the currently selected volume.
+
 ## Remaining Checks
 
 - [x] Verify an authorized virtual-lab tool observation and a Termux package-management response.
 - [x] Verify the expanded curriculum and method-library content in the browser.
 - [x] Verify the deployed production terminal at the CYBERFORGE Pages address.
+- [x] Verify the Study Library index, 200-note reader, and notebook-page structure in the browser.
 - [ ] Verify small-screen rendering and keyboard history/completion behavior.
 - [ ] Build production files and inspect the deployed CYBERFORGE site.
