@@ -6,4 +6,4 @@
 - [x] Build defensive utilities, guided learning paths, progress features, and the safe terminal interface.
 - [x] Add secure deployment guidance for a future real isolated Kali/Linux practice environment.
 - [x] Run quality checks, verify responsive behaviour, and prepare a production build.
-- [ ] Commit and push CYBERFORGE to its own GitHub repository.
+- [x] Commit and push CYBERFORGE to its own GitHub repository.
