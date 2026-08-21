@@ -7,3 +7,9 @@
 - [x] Add secure deployment guidance for a future real isolated Kali/Linux practice environment.
 - [x] Run quality checks, verify responsive behaviour, and prepare a production build.
 - [x] Commit and push CYBERFORGE to its own GitHub repository.
+
+## Separate Cloudflare Deployment
+
+- [x] Produce a clean production build for the CYBERFORGE Pages deployment.
+- [x] Create a new standalone Cloudflare Pages project and deploy CYBERFORGE without changing existing projects or DNS.
+- [x] Verify the new pages.dev site and record its public deployment address.

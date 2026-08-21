@@ -11,6 +11,10 @@ pnpm run build
 
 Deploy the contents of `dist/` to a static host. No credentials, tokens, API keys, or databases are required for the current browser-local release.
 
+### Current standalone deployment
+
+CYBERFORGE is deployed independently at **https://cyberforge-668.pages.dev** through its own Cloudflare Pages project. This deployment does not share a project, DNS configuration, backend, or domain with RNS BIGBULL or CheatIgnite.
+
 ## Future real practice terminal: non-negotiable controls
 
 A real Linux/Kali training terminal must be a separate backend product, not a shell attached directly to this public frontend. Before it is enabled, implement every control below.
