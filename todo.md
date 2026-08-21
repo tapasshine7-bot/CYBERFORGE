@@ -20,5 +20,5 @@
 - [x] Add a professional command-reference workspace with explanations and practical safe examples.
 - [x] Add guided interactive missions, command history, and mobile-friendly terminal shortcuts.
 - [x] Add a realistic Termux-style prompt, home paths, package-management simulation, storage-setup guidance, and touch-friendly keyboard controls without device-shell execution.
-- [ ] Verify the upgraded dashboard and deploy it to the independent CYBERFORGE Pages project.
-- [ ] Push the upgrade and record the terminal boundary for future isolated real-lab infrastructure.
+- [x] Verify the upgraded dashboard and deploy it to the independent CYBERFORGE Pages project.
+- [x] Push the upgrade and record the terminal boundary for future isolated real-lab infrastructure.

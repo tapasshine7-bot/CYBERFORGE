@@ -10,9 +10,12 @@ The simulated command `nmap 10.42.0.12` returned an explicitly labeled, limited 
 
 The Learning Paths workspace displays six structured tracks: Termux Mobile Foundations, Linux Foundations, Evidence & Log Triage, Defensive Web Security, Kali Tool Methodology, and CTF to Professional Report. The Knowledge Base separately presents mobile shell safety, permissions, authorized information gathering, configuration hardening, incident triage, scope, and evidence-led reporting, followed by a clear legal-use notice.
 
+The final production build completed successfully. CYBERFORGE was deployed to the existing independent Cloudflare Pages project, and the production address `https://cyberforge-668.pages.dev/` rendered the v2 overview and Practice Terminal with the Termux/Kali selector, controlled command input, shortcut chips, and browser-local safety boundary.
+
 ## Remaining Checks
 
 - [x] Verify an authorized virtual-lab tool observation and a Termux package-management response.
 - [x] Verify the expanded curriculum and method-library content in the browser.
+- [x] Verify the deployed production terminal at the CYBERFORGE Pages address.
 - [ ] Verify small-screen rendering and keyboard history/completion behavior.
 - [ ] Build production files and inspect the deployed CYBERFORGE site.
