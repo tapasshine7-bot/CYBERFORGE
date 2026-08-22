@@ -1,8 +1,8 @@
-# CYBERFORGE
+# LIVAITHON
 
-CYBERFORGE is a mobile-friendly, legal cybersecurity learning workspace. It provides guided Linux-style practice, browser-local defensive utilities, structured learning paths, and local-only progress tracking.
+LIVAITHON is a mobile-friendly, legal cybersecurity learning workspace. It provides guided Linux-style practice, browser-local defensive utilities, structured learning paths, and local-only progress tracking.
 
-> **Legal-use boundary:** Use CYBERFORGE only to learn, protect systems you own, assess systems for which you have clear written permission, or work in intentionally vulnerable training labs. This project does not provide arbitrary command execution, external scanning, credential collection, or attack tooling.
+> **Legal-use boundary:** Use LIVAITHON only to learn, protect systems you own, assess systems for which you have clear written permission, or work in intentionally vulnerable training labs. This project does not provide arbitrary command execution, external scanning, credential collection, or attack tooling.
 
 ## Included in this release
 
